@@ -1,0 +1,16 @@
+Cartel Token
+
+⁃ Create a BEP-20 smart chain token with supplied logo
+⁃ Name = Cartel
+⁃ Token name = CARTEL
+⁃ Capped at 100,000,000,000 tokens
+⁃ Implement automated burn process as discussed, inaccessible wallet which holds 50% of the initial offering, upon a purchase the wallet automatically sends tokens at a 1 to 1 ratio to a void/burn address
+⁃ I would also like to personally retain 10% of the market tokens
+⁃ I would also like to have a 2% buy and sell transaction fee
+⁃ Product test and feedback
+⁃ Verify token on BSC and links to website and socials etc
+⁃ Provide source code
+
+The name would be Cartel, I have a logo I would like to use, 18 decimals and 100,000,000,000 fixed cap, I had the thought that an automated burn process would be good, maybe a safe inaccessible wallet that owns 50% of the tokens and they are burnt at a ratio of 1 to 1? So every time one is purchased on the open market then the wallet sends 1 token to a completely dead burn wallet
+
+the automated burn process should stop at a certain point otherwise obviously it will be continuous until the liquidity is gone. Perhaps the burn process should cease once the market cap is reduced to 100,000,000?
