@@ -1,0 +1,18 @@
+DirkBrignac
+
+I want to make something similar. But more with the tokenomics of the mybtc coin. 
+Where like 6% goes to lp 6%(or change able) of each transactions get redistributed as bnb or eth or any other and like 2% to a marketing wallet. So it generates funds that can be used for marketing
+
+
+https://bscscan.com/address/0xafa68df6300f6e8d8a623cbf33853b58f9ef79e1#code
+https://bscscan.com/token/0x411aef63f042a62a0e8b61089b185f7ec1636e37#balances
+https://bscscan.com/address/0x411aef63f042a62a0e8b61089b185f7ec1636e37#code
+https://poocoin.app/tokens/0xdb8d30b74bf098af214e862c90e647bbb1fcc58c
+
+mybtc
+https://bscscan.com/token/0x411aef63f042a62a0e8b61089b185f7ec1636e37#balances
+https://bscscan.com/address/0x411aef63f042a62a0e8b61089b185f7ec1636e37#code
+https://bscscan.com/address/0xafa68df6300f6e8d8a623cbf33853b58f9ef79e1#code
+336343
+
+https://bscscan.com/address/0x80e062dde6512630062e61fbac2abc93687a1195#code

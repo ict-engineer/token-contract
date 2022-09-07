@@ -1,0 +1,34 @@
+https://moonbase-blockscout.testnet.moonbeam.network/address/0x4cd0f9D02589f3d14f89dF07CAf789BC92D06BD8/verify-via-flattened-code/new
+
+0x4cd0f9D02589f3d14f89dF07CAf789BC92D06BD8
+metamask
+https://bscscan.com/address/0x1C51F2BBa8657111Da175f34349f56643A2aDe44
+
+moomriver dex
+https://swap.moonswap.in/#/swap
+
+https://bscscan.com/address/0x88838d8863b01275fe5aede659cdb9ee2cef3c38#code
+
+https://docs.seascape.network/seadex/addresses
+
+WMOVR (Wrapped Movr)
+0xE3C7487Eb01C74b73B7184D198c7fBF46b34E5AF
+Wraps your MOVR tokens into ERC-20 Token.
+Router
+0x802B0B134B76765378e10F1Ef5175349751af90a
+Seadex Router address. Based on Uni V2 Router
+Factory
+0xD184B1317125b166f01e8a0d6088ce1de61D00BA
+Seadex Factory address. Based on Uni V2 Factory
+Multicall
+0xa9177F8d98DAaB74C24715Ba0A81b73654710523
+Multicall to Seadex smartcontracts.
+RIB-MOVR LP
+0xb64Ec03ABAC06FcFf7D5FBC2b4d36Ce5f8f46F44
+SeaDex LP token for RIB, MOVR pair
+
+
+
+proxy contract address
+https://bscscan.com/address/0x13da2940fFc63682eA3bc6e615994F455a34eB7a#code
+
